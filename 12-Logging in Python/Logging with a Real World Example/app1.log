@@ -1,0 +1,5 @@
+2025-07-31 12:46:49 - Arithematic_APP - DEBUG - Adding 10 + 5 = 15
+2025-07-31 12:46:49 - Arithematic_APP - DEBUG - Subtracting 10 - 5 = 5
+2025-07-31 12:46:49 - Arithematic_APP - DEBUG - Multiplying 10 * 5 = 50
+2025-07-31 12:46:49 - Arithematic_APP - DEBUG - Dividing 10 / 5 = 2.0
+2025-07-31 12:46:49 - Arithematic_APP - ERROR - Attempted to divide by zero

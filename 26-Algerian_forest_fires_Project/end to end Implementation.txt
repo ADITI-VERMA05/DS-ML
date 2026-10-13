@@ -1,0 +1,7 @@
+Machine Learning Projects
+
+ML Project Lifecycle
+Problem Definition → Data Collection → Data Cleaning → EDA → Feature Engineering → Model Training → Model Evaluation → Model Deployment → Monitoring & Maintenance
+Before model → Problem, Data, Cleaning, EDA, Features.
+During model → Training + Evaluation.
+After model → Deployment + Monitoring.

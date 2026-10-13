@@ -1,0 +1,45 @@
+ipykernel  # Jupyter kernel for Python
+numpy  # Numerical computing [ndarray]
+pandas  # Data manipulation and analysis [Series and DataFrame]
+lxml  # XML and HTML parsing
+HTML5  # HTML5 parsing
+beautifulsoup4  # Web scraping library
+openpyxl  # Excel file handling
+matplotlib  # Plotting library
+seaborn  # Statistical data visualization
+flask # web server
+beautifulsoup4  #
+bs4  # 
+requests
+memory_profiler
+streamlit # >> streamlit run app.py
+scikit-learn  
+# scipy
+# statsmodels
+# tensorflow
+# keras
+# torch
+# torchvision
+# transformers
+# huggingface-hub
+# datasets
+# requests
+# fastapi
+# uvicorn
+# jupyterlab
+# pytest
+# black
+# pytest-cov
+# pytest-mock
+# coverage
+# pylint
+# mypy
+# pyyaml
+# pyarrow
+# pyod
+# sqlalchemy
+# sqlalchemy-utils
+# pydantic
+# joblib
+# pyarrow
+# tqdm

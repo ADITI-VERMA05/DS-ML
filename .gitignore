@@ -1,0 +1,21 @@
+# Python / Jupyter Notebook checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+
+# Large data or binary files (adjust based on your needs)
+*.csv
+*.parquet
+*.h5
+*.pkl
+data/
+datasets/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+.vscode/

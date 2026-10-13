@@ -1,0 +1,54 @@
+Analysis of variance(ANNOVA)
+
+Def: ANNOA is a statistical method used to compare the means of 2 or more groups.
+
+ANNOVA:
+Factors
+Levels
+
+EG:
+Medicine    ~[Factor]
+       (dosage)  5mg 10mg 15mg   ~[levels]
+
+Mode of payment    ~[Factor]
+       G-pay  phone-pe  IMPS   NEFT   ~[levels]
+
+Assumptions in ANNOVA:
+
+Normality of sampling distribution of mean: The distribution of sample mean is normally distributed (follow gaussian distribution).
+Absence of Outliers: Outlying score need to be removed from the dataset.
+Homogeneity of Variance: Population variance in different levels of each independent levels of each independent variables are equal.
+Samples are independent and randomly selected.
+
+Types of ANNOVA: [3 types]
+
+One way ANNOVA: One factor with at least 2 levels. these levels are independent.
+eg. Doctor wants to test a new medication to decrease headache. They split the participants in 3 conditions [10mg, 20mg, 30mg]. Doctor ask the participants to rate the headache (1-10).
+
+Medication --> Factor
+10mg   20mg    30mg
+  5           7           2
+  3           4           6
+  _            _           _ 
+  _            _           _
+
+2. Repeated Measures of ANNOVA: One factor with at least 2 levels, levels are dependent
+
+             *Running --> Factor*
+
+Levels - Day1   Day2   Day3
+                8         5          4
+                7         4          9
+                _          _          _
+
+3. Factorial ANNOVA: Two or more factors (each of which with at least) 2 levels can be independent and dependent.
+
+             *Running --> Factor*
+
+Levels - Day1   Day2   Day3
+                8         5          4
+     Male   9         4          3
+(Factor<-Gender)
+                2         4          6
+  Female   7         8          3
+(Factor<-Gender)
